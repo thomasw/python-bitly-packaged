@@ -3,7 +3,7 @@
 from setuptools import setup, find_packages
 
 setup(name="bitly",
-      version="0.2.2",
+      version="0.1.0",
       description="Bit.ly library for python",
       license="Apache License 2.0",
       author="Yoav Aviram",
